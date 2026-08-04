@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "Caderno Universitário",
+        "categoria": "Papelaria",
+        "quantidade": 15,
+        "preco": 12.9,
+        "estoque_minimo": 5
+    },
+    {
+        "id": 2,
+        "nome": "Caneta Esferográfica Azul",
+        "categoria": "Papelaria",
+        "quantidade": 3,
+        "preco": 2.5,
+        "estoque_minimo": 10
+    }
+]
