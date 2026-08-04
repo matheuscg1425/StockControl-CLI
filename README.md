@@ -56,10 +56,9 @@ stock-control-cli/
 
 Requisitos: **Python 3.8 ou superior** (nenhuma biblioteca externa é necessária).
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/stock-control-cli.git
-cd stock-control-cli
+```# Clone o repositório
+git clone https://github.com/matheuscg1425/StockControl-CLI.git
+cd StockControl-CLI
 
 # Execute o programa
 python main.py
