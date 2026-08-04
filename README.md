@@ -79,20 +79,3 @@ exibe o menu principal:
 ===========================================================
 ```
 
-## 🚀 Melhorias futuras
-
-- Adicionar relatório de valor total em estoque (quantidade × preço)
-- Permitir exportar a listagem para um arquivo `.csv`
-- Criar filtro de listagem apenas por produtos com estoque baixo
-- Adicionar testes automatizados com `unittest`
-- Migrar a persistência de JSON para um banco de dados SQLite
-
-## 🧠 Tecnologias utilizadas
-
-- Python 3 (sem dependências externas)
-- Módulos nativos: `json`, `os`
-
----
-
-Projeto desenvolvido como parte do portfólio para busca de estágio em
-Tecnologia da Informação.
